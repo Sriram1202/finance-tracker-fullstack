@@ -1,4 +1,4 @@
-# 📊 Finance Tracker — Full-Stack Web Application
+#  Finance Tracker — Full-Stack Web Application
 
 **Project:** Personal Finance Tracker  
 **Tech Stack:** Spring Boot (Java), MySQL, React + Vite, JWT Authentication, Tailwind CSS, Recharts
@@ -8,13 +8,13 @@ A complete full-stack application to manage personal finances, track transaction
 ---
 
 ## Features
-- 🔐 User registration & login (JWT)
-- ✏️ Add / update / delete transactions & expenses
-- 🏷 Category selection for each entry
-- 📌 Dashboard with total income, total expense, net balance & recent transactions
-- 📈 Reports with category-wise and month-wise charts
-- 📅 Date-range filters for both transactions & expenses
-- 🎨 Responsive UI with Tailwind CSS
+-  User registration & login (JWT)
+-  Add / update / delete transactions & expenses
+-  Category selection for each entry
+-  Dashboard with total income, total expense, net balance & recent transactions
+-  Reports with category-wise and month-wise charts
+-  Date-range filters for both transactions & expenses
+-  Responsive UI with Tailwind CSS
 
 ---
 
