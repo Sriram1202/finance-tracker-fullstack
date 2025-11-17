@@ -22,10 +22,19 @@ A complete full-stack application to manage personal finances, track transaction
 ```
 finance-tracker-fullstack/
 │
-├── tracker/ → Spring Boot backend
-├── frontend/ → React + Vite frontend
+├── tracker/            → Spring Boot backend
+├── frontend/           → React + Vite frontend
+├── screenshots/        → All app UI screenshots (PNG)
+│   ├── login.png
+│   ├── dashboard.png
+│   ├── transactions.png
+│   ├── expense.png
+│   ├── reports.png
+│   ├── summary.png
+│   └── profile.png
 ├── README.md
 └── .gitignore
+
 ```
 
 ---
@@ -108,17 +117,29 @@ GET /expenses/summary/monthly
 ```
 ---
 
-##  Screenshots
+## Screenshots
 
-Create a folder named:
-/screenshots
+### Login Page
+![Login](screenshots/login.png)
 
-Add images of:
-- Login page  
-- Dashboard  
-- Add Transaction  
-- Reports & Charts  
-- Profile Page  
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Add Transaction
+![Transactions](screenshots/transactions.png)
+
+### Add Expense
+![Expense](screenshots/expense.png)
+
+### Reports & Charts
+![Reports](screenshots/reports.png)
+
+### Summary Page
+![Summary](screenshots/summary.png)
+
+### Profile Page
+![Profile](screenshots/profile.png)
+
 
 ---
 
