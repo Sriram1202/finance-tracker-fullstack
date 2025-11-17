@@ -120,25 +120,25 @@ GET /expenses/summary/monthly
 ## Screenshots
 
 ### Login Page
-![Login](screenshots/login.png)
+![Login](screenshots/login.PNG)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.PNG)
 
 ### Add Transaction
-![Transactions](screenshots/transactions.png)
+![Transactions](screenshots/transactions.PNG)
 
 ### Add Expense
-![Expense](screenshots/expense.png)
+![Expense](screenshots/expense.PNG)
 
 ### Reports & Charts
-![Reports](screenshots/reports.png)
+![Reports](screenshots/reports.PNG)
 
 ### Summary Page
-![Summary](screenshots/summary.png)
+![Summary](screenshots/summary.PNG)
 
 ### Profile Page
-![Profile](screenshots/profile.png)
+![Profile](screenshots/profile.PNG)
 
 
 ---
